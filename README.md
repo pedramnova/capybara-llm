@@ -9,6 +9,7 @@ Optimized for Attention Mechanisms: Uses optimized attention mechanisms to enhan
 Low Latency Inference: Enables real-time decision-making without relying on cloud resources.
 Privacy-Preserving: Runs locally on edge devices, ensuring that sensitive data remains private.
 Scalable & Customizable: Supports fine-tuning and adaptation for various edge AI applications, from IoT to robotics.
+
 Use Cases:
 Smart Devices & IoT: AI-driven automation and decision-making on embedded devices.
 Autonomous Systems: Robotics, drones, and self-driving technologies.
