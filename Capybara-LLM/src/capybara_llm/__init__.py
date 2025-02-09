@@ -1,1 +1,0 @@
-# Capybara-LLM: A lightweight optimization library for LLMs on edge devices
